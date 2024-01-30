@@ -1,0 +1,1 @@
+export const API_URL="https://wordle-apis.vercel.app/api/validate"
